@@ -8,7 +8,7 @@
 
 ## Kafka Assignment 
 
-- Java application to produce and consume from the Kafka topic using the kafka-clients directory in this repo.
+- Java application to produce and consume from the Kafka topic using the kafka-clients directory in thie repo.
 
 #### Prerequisites
   - Docker, docker-compose, Kafka must be installed.
