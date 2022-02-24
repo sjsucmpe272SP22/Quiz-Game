@@ -3,7 +3,7 @@
 ## Team Members
 - SaiLahari Seethamraju                   (016037112)
 - Sai Manasa Yadlapalli                   (015999659)
-- Mounika Reddy kandi                     (016021902)
+- Mounica Reddy kandi                     (016021902)
 - Satya Venkata Chandra Tej Ventrapragada (016085251)
 
 ## Kafka Assignment 
