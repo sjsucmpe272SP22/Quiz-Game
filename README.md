@@ -1,4 +1,4 @@
-# Group-21 CMPE 272
+## Group-21 CMPE 272
 
 ## Team Members
 - SaiLahari Seethamraju                   (016037112)
@@ -37,11 +37,20 @@ This game is designed for users of all age groups.
 #### Technologies used: Html, CSS, and JavaScript.
 
 
-### Project 3: Calorie Journal
+## Project 3: Calorie Journal
+
 #### Abstract:
-We'll build a full-stack calorie tracker application that users can use to keep track of users food habits and are able to track their entire calorie count by utilizing the features of the MERN stack.
+We will build a full-stack calorie tracker application that users can use to keep track of average number of calories the consumed overtime. 
+Multiple users can use the same website and compare their food habits and calorie consumption to other users.
 
 #### Approach
-This project is developed using MERN stack technology. Dependencies: dotenv, cors, mongoose, express, nodemon, body-parser
+1. When the Application starts
+2. Users can acess a website to add username, food name and calories consumed
+3. Application stores this data in a database
+4. Provides visualization to see trends of calories consumed by user, by time(day, month, year)
+
+#### Technologies Used:
+- Mongo Db, ExpressJS, React JS, Node JS and react-chartjs-2 to visualize  data.
+
 
 
