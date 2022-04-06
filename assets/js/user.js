@@ -53,3 +53,11 @@ const setHighScore = () => {
         }
     }
 };
+
+const userNameSubmit = () => {
+    user = document.querySelector("#user").value;
+    localStorage.setItem("user", user);
+
+    if (user) $("#playerModal").modal("hide"); 
+    displayUsernameInfo(); 
+};
