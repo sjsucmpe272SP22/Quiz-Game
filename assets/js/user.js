@@ -5,7 +5,6 @@ const finalLabel = document.querySelector("#finalModalLabel");
 const topScore = localStorage.getItem("topScore");
 userHighScore.innerText = topScore;
 
-
 let user = localStorage.getItem("user");
 let highScore = 0;
 const checkUserData = () => {
@@ -15,14 +14,12 @@ const checkUserData = () => {
         $("#playerModal").ready(function () {
             $('#user').focus();
         });
-
     } else {
         user = localStorage.getItem("user");
         highScore = localStorage.getItem("highScore");
         if (highScore === null) {
             highScore = 0;
         }
-
         displayUsernameInfo();
     }
 };
@@ -100,3 +97,13 @@ Array.from(infoOff).forEach((e) => {
 });
 
 const userInput = document.querySelector("#user");
+
+
+userInput.addEventListener("keypress", (e) => {
+    if (e.which === 13) {
+        e.preventDefault(); 
+        userNameSubmit();
+    }
+});
+
+
