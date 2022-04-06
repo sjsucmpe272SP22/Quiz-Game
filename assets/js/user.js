@@ -72,3 +72,31 @@ let submitName = document.querySelector("#submitName");
 submitName.addEventListener("click", userNameSubmit);
 
 window.onload = checkUserData();
+
+const finalOff = document.querySelectorAll(".closeHighScore");
+
+finalOff.forEach((e) => {
+    e.addEventListener("click", () => {
+        gameProgress.classList.add("hide");
+        $("#finalModal").modal("hide");
+        currentScore.innerText = "";
+        progressBar.innerText = "";
+        progressBar.style.width = "";
+    });
+});
+
+const infoOn = document.querySelector("#openModal");
+infoOn.addEventListener("click", () => {
+    $("#qz-Modal").modal("show");
+
+});
+
+const infoOff = document.querySelectorAll(".close");
+
+Array.from(infoOff).forEach((e) => {
+    e.addEventListener("click", () => {
+        $("#qz-Modal").modal("hide");
+    });
+});
+
+const userInput = document.querySelector("#user");
