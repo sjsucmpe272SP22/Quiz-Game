@@ -61,3 +61,14 @@ const userNameSubmit = () => {
     if (user) $("#playerModal").modal("hide"); 
     displayUsernameInfo(); 
 };
+
+const displayUsernameInfo = () => {
+    finalScore.innerText = topScore;
+    username.innerHTML = user;
+    userHighScore.innerHTML = highScore;
+};
+
+let submitName = document.querySelector("#submitName");
+submitName.addEventListener("click", userNameSubmit);
+
+window.onload = checkUserData();
