@@ -4,7 +4,7 @@
 - SaiLahari Seethamraju                   (016037112)
 - Sai Manasa Yadlapalli                   (015999659)
 - Mounica Reddy kandi                     (016021902)
-- Satya Venkata Chandra Tej Ventrapragada (016085251)
+- Satya V (016085251)
 
 
 #### Project Name: Quiz Game
