@@ -24,13 +24,13 @@ This game is designed for users of all age groups.
 
 ### Summary
 
-Quiz Game is created using React, React Hooks, NextJS,  and Context open sourceAPI. 
+The following Quiz Game is created by using technologies like React, React Hooks, NextJS,  and Context open sourceAPI. 
 
 This project was bootstrapped with [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
 ### Goal
 
-The purpose of this project is to create a full stack implementation quiz game
+The pivot purpose of the current project is to develop a full stack implementation of a responsive quiz game.
 
 ### Getting Started
 
