@@ -29,10 +29,10 @@ Quiz Game is created by using technologies like React, React Hooks, NextJS, and 
 
 
 ### Use Case-business Value
-*1.) Provide value to the user/customer.
-*2.) Improve User Engagement.
-*3.) Increase oncoming web traffic and generate revenue by enabling more number of clicks and third party reccommendations.
-*4.) Filter out the customers/users by segmentation and filtering out based on the initial assessment.
+*1.) Provide value to the user/customer.*
+*2.) Improve User Engagement.*
+*3.) Increase oncoming web traffic and generate revenue by enabling more number of clicks and third party reccommendations.*
+*4.) Filter out the customers/users by segmentation and filtering out based on the initial assessment.*
 
 #### Technologies used
 
