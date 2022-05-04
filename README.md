@@ -24,11 +24,15 @@ This project is a Full stack Quiz Game. Data fetch is performed from open source
 
 
 ### Problem Satement
+As the world is getting more competetive everyday, one should stay updated with the current trend of knowledge. In order to provide a wider perspective on knowledge, we have built a responsive game project where the user can have an experience on the flash card quiz game thereby testing their skill over generic knowledge concepts. In terms of business perspective, a responsive interaction with the user helps us to know well about their requirements and add value to their needs. 
 Quiz Game is created by using technologies like React, React Hooks, NextJS, and Context open sourceAPI Trivia (opentdb.com). 
 
 
 ### Use Case-business Value
-Main purpose of the current project is to implement a responsive quiz game.
+*1.) Provide value to the user/customer.
+*2.) Improve User Engagement.
+*3.) Increase oncoming web traffic and generate revenue by enabling more number of clicks and third party reccommendations.
+*4.) Filter out the customers/users by segmentation and filtering out based on the initial assessment.
 
 #### Technologies used
 
