@@ -23,7 +23,6 @@ This project is a Full stack Quiz Game. Data fetch is performed from open source
 4. Leader Board gets updated dynamically based on high score.
 
 
-
 ### Problem Satement
 Quiz Game is created by using technologies like React, React Hooks, NextJS, and Context open sourceAPI Trivia (opentdb.com). 
 
@@ -41,6 +40,10 @@ Main purpose of the current project is to implement a responsive quiz game.
 - [JWT Authentication](https://jwt.io/)
 - [Semantic UI](https://react.semantic-ui.com/)
 - [React Query](https://react-query.tanstack.com/)
+
+#### Architeture Diagram <br/>
+ <img src="https://user-images.githubusercontent.com/87613567/166621178-4fbfbc40-f243-46b1-b0da-141c798d0a1a.png" width="700" height="500" />
+
 
 ### Key features
 *1. Responsive design using `@artsy/fresnel` & Semantic UI.*
