@@ -41,7 +41,7 @@ Main purpose of the current project is to implement a responsive quiz game.
 - [Semantic UI](https://react.semantic-ui.com/)
 - [React Query](https://react-query.tanstack.com/)
 
-#### Architeture Diagram <br/>
+#### Architecture Diagram <br/>
  <img src="https://user-images.githubusercontent.com/87613567/166621178-4fbfbc40-f243-46b1-b0da-141c798d0a1a.png" width="700" height="500" />
 
 
