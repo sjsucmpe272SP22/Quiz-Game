@@ -23,12 +23,18 @@ This project is a Full stack Quiz Game. Data fetch is performed from open source
 4. Leader Board gets updated dynamically based on high score.
 
 
-### Problem Satement
-As the world is getting more competetive everyday, one should stay updated with the current trend of knowledge. In order to provide a wider perspective on knowledge, we have built a responsive game project where the user can have an experience on the flash card quiz game thereby testing their skill over generic knowledge concepts. In terms of business perspective, a responsive interaction with the user helps us to know well about their requirements and add value to their needs. 
+## Problem Statement
+ We chose to create a fun interactive Trivia Quiz Game
+## Persona
+ Single user scope targeting all ages.
+## Future Scope
+ Could be extended with different kind of question topics and 	making it real time gaming platform, In terms of business, 	we can filter the customers based on an    initial scrutiny that we 	perform in order to understand the customers needs.
+
+
 Quiz Game is created by using technologies like React, React Hooks, NextJS, and Context open sourceAPI Trivia (opentdb.com). 
 
 
-### Use Case-business Value
+## Use Case-business Value
 *1.) Provide value to the user/customer.*
 
 *2.) Improve User Engagement.*
